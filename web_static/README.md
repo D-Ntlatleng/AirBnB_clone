@@ -1,0 +1,1 @@
+html page with inline styling for all tags
